@@ -11,7 +11,7 @@ export default function ProjectEcosystem() {
             </h2>
             <p className="text-lg leading-relaxed" style={{color: '#1f2630', opacity: 0.8}}>
               Atlas Vivo forma parte de{' '}
-              <span className="font-semibold" style={{color: '#00b894'}}>Shared Museum</span>, 
+              <a href="https://www.sharedmuseum.com/"><span className="font-semibold" style={{color: '#00b894'}}>Shared Museum</span></a>, 
               una iniciativa creada desde{' '}
               <span className="font-semibold" style={{color: '#6b73ff'}}>Lu·di·co</span>, 
               estudio de diseño fundado por Rocío Fatás.
