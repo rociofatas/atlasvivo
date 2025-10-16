@@ -42,7 +42,7 @@ export default function About() {
               <p>
                 Creemos que cada museo guarda no solo objetos, sino historias, emociones y conexiones
                 que trascienden el tiempo y el espacio. Este mapa interactivo es el primer paso de
-                un viaje más amplio: <a href="https://www.sharedmuseum.com/"><strong>Shared Museum</strong></a>, una plataforma donde la cultura
+                un viaje más amplio: <a href="https://www.sharedmuseum.com/" target"_blank"><strong>Shared Museum</strong></a>, una plataforma donde la cultura
                 se vive en compañía, donde el aprendizaje es un acto social y donde cada visita,
                 virtual o presencial, se convierte en una experiencia compartida.
               </p>
