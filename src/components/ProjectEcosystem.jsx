@@ -11,7 +11,7 @@ export default function ProjectEcosystem() {
             </h2>
             <p className="text-lg leading-relaxed" style={{color: '#1f2630', opacity: 0.8}}>
               Atlas Vivo forma parte de{' '}
-              <a href="https://www.sharedmuseum.com/" target"_blank"><span className="font-semibold" style={{color: '#00b894'}}>Shared Museum</span></a>, 
+              <a href="https://www.sharedmuseum.com/" target="_blank"><span className="font-semibold" style={{color: '#00b894'}}>Shared Museum</span></a>, 
               una iniciativa creada desde{' '}
               <span className="font-semibold" style={{color: '#6b73ff'}}>Lu·di·co</span>, 
               estudio de diseño fundado por Rocío Fatás.
@@ -51,7 +51,7 @@ export default function ProjectEcosystem() {
 
             {/* Nivel 2: Shared Museum */}
             <div className="flex flex-col items-center mb-8">
-              <a href="https://www.sharedmuseum.com/" target"_blank">
+              <a href="https://www.sharedmuseum.com/" target="_blank">
                 <div className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow">
                   <div className="flex flex-col items-center gap-4">
                     <img 
