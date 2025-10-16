@@ -50,24 +50,26 @@ export default function ProjectEcosystem() {
             </div>
 
             {/* Nivel 2: Shared Museum */}
-            <div className="flex flex-col items-center mb-8">
-              <div className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow">
-                <div className="flex flex-col items-center gap-4">
-                  <img 
-                    src="/logos/SM-LOGO.png" 
-                    alt="Shared Museum"
-                    className="h-20 w-auto"
-                  />
-                  <div className="text-center">
-                    <h3 className="text-xl font-bold mb-1" style={{color: '#1f2630'}}>
-                      Shared Museum
-                    </h3>
-                    <p className="text-sm" style={{color: '#1f2630', opacity: 0.7}}>
-                      Experiencias culturales compartidas
-                    </p>
+            <a href="sharedmuseum.com/">
+              <div className="flex flex-col items-center mb-8">
+                <div className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow">
+                  <div className="flex flex-col items-center gap-4">
+                    <img 
+                      src="/logos/SM-LOGO.png" 
+                      alt="Shared Museum"
+                      className="h-20 w-auto"
+                    />
+                    <div className="text-center">
+                      <h3 className="text-xl font-bold mb-1" style={{color: '#1f2630'}}>
+                        Shared Museum
+                      </h3>
+                      <p className="text-sm" style={{color: '#1f2630', opacity: 0.7}}>
+                        Experiencias culturales compartidas
+                      </p>
+                    </div>
                   </div>
                 </div>
-              </div>
+              </a>
               
               {/* Flecha curva */}
               <svg className="my-4" width="60" height="40" viewBox="0 0 60 40" fill="none">
