@@ -51,7 +51,7 @@ export default function ProjectEcosystem() {
 
             {/* Nivel 2: Shared Museum */}
             <div className="flex flex-col items-center mb-8">
-              <a href="sharedmuseum.com/">
+              <a href="https://www.sharedmuseum.com/">
                 <div className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow">
                   <div className="flex flex-col items-center gap-4">
                     <img 
