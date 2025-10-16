@@ -1,0 +1,53 @@
+{
+  "slug": "las-meninas",
+  "title": "Las Meninas",
+  "artist": "Diego Velázquez",
+  "year": "1656",
+  "image": "https://picsum.photos/seed/meninas/1200/800",
+  "backTo": "/museo-del-mes",
+  "externalLink": {
+    "label": "Ver en Wikipedia",
+    "url": "https://es.wikipedia.org/wiki/Las_meninas"
+  },
+  "facts": [
+    { "label": "Museo", "value": "Museo del Prado" },
+    { "label": "Ubicación", "value": "Madrid, España" },
+    { "label": "Dimensiones", "value": "318 cm × 276 cm" },
+    { "label": "Técnica", "value": "Óleo sobre lienzo" },
+    { "label": "Movimiento", "value": "Barroco español" },
+    { "label": "Periodo", "value": "Siglo de Oro" }
+  ],
+  "keyIdeas": [
+    {
+      "title": "El juego de la perspectiva",
+      "content": "Velázquez se autorretrata trabajando en un lienzo de grandes dimensiones. La obra muestra a la infanta Margarita rodeada de sus damas de honor (meninas), pero el verdadero tema es la compleja relación entre el pintor, los modelos y el espectador."
+    },
+    {
+      "title": "El espejo y la mirada",
+      "content": "En el fondo, un espejo refleja a los reyes Felipe IV y Mariana de Austria, sugiriendo que ellos son los verdaderos modelos que Velázquez está pintando. Esta ambigüedad convierte al espectador en parte de la escena."
+    },
+    {
+      "title": "Maestría técnica",
+      "content": "La pincelada suelta y los efectos de luz anticipan el impresionismo en dos siglos. Velázquez captura texturas, atmósfera y profundidad con una modernidad asombrosa para su época."
+    }
+  ],
+  "relatedWorks": [
+    {
+      "slug": "el-jardin-de-las-delicias",
+      "title": "El jardín de las delicias",
+      "subtitle": "El Bosco, 1490-1500",
+      "image": "https://picsum.photos/seed/bosco/600/400"
+    },
+    {
+      "slug": "los-fusilamientos",
+      "title": "Los fusilamientos del 3 de mayo",
+      "subtitle": "Francisco de Goya, 1814",
+      "image": "https://picsum.photos/seed/goya/600/400"
+    }
+  ],
+  "seo": {
+    "title": "Las Meninas - Diego Velázquez | Atlas Vivo",
+    "description": "Análisis de Las Meninas de Velázquez: perspectiva, luz y la revolución del barroco español.",
+    "image": "https://picsum.photos/seed/meninas-og/1200/630"
+  }
+}

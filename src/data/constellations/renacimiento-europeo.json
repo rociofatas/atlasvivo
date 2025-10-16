@@ -1,0 +1,45 @@
+{
+  "slug": "renacimiento-europeo",
+  "title": "El Renacimiento Europeo",
+  "subtitle": "Un viaje por el despertar humanista de la mirada: luz, anatomía y perspectiva reinventan el arte.",
+  "gradient": "from-amber-500 via-orange-500 to-red-600",
+  "image": "https://concepto.de/wp-content/uploads/2015/02/renacimiento.jpg",
+  "cta": { "label": "Comenzar ruta", "href": "/mapa?c=renacimiento-europeo" },
+  "intro": {
+    "title": "El despertar humanista",
+    "content": "Entre Florencia y Londres, el Renacimiento alumbró una nueva forma de pensar: el ser humano como medida, la naturaleza como laboratorio y la pintura como ciencia de la luz. Esta constelación recorre 12 museos para descubrir cómo un puñado de artistas cambió para siempre la historia de las imágenes."
+  },
+  "museums": [
+    { "name": "Galleria degli Uffizi", "city": "Florencia", "blurb": "Cuna del mecenazgo Medici y de Leonardo.", "image": "https://www.datocms-assets.com/103094/1688662380-1506173255354479-mgl0199.jpg?auto=format%2Ccompress&cs=srgb&dpr=0.25&max-w=160000%20213w,https://www.datocms-assets.com/103094/1688662380-1506173255354479-mgl0199.jpg?auto=format%2Ccompress&cs=srgb&dpr=0.5&max-w=320000%20427w,https://www.datocms-assets.com/103094/1688662380-1506173255354479-mgl0199.jpg?auto=format%2Ccompress&cs=srgb&dpr=0.75&max-w=480000%20641w,https://www.datocms-assets.com/103094/1688662380-1506173255354479-mgl0199.jpg?auto=format%2Ccompress&cs=srgb&max-w=800%20855w", "url": "https://www.uffizi.it" },
+    { "name": "Galleria dell'Accademia", "city": "Florencia", "blurb": "El canon de la escultura en el David.", "image": "https://cdn-imgix.headout.com/media/images/dda1ee03b3e9d67718bbc80741c11a10-Visiting%20Accademia%20Gallery.jpg?auto=format&w=702.4499999999999&h=401.4&q=90&ar=7%3A4&crop=faces&fit=crop", "url": "https://www.galleriaaccademiafirenze.it" },
+    { "name": "Musei Vaticani", "city": "Roma", "blurb": "Fe y razón en las Estancias de Rafael.", "image": "https://images.unsplash.com/photo-1531572753322-ad063cecc140?w=800&q=80", "url": "https://www.museivaticani.va" },
+    { "name": "Musei Capitolini", "city": "Roma", "blurb": "Archivo vivo de la Roma clásica.", "image": "https://www.museicapitolini.org/sites/default/files/f_notizia/campidoglio_1050x545_1.jpg", "url": "https://www.museicapitolini.org" },
+    { "name": "Museo Nazionale del Bargello", "city": "Florencia", "blurb": "Donatello y el nacimiento del héroe.", "image": "https://bargellomusei.it/wp-content/uploads/2023/11/bargello-jpg.webp", "url": "https://www.bargellomusei.beniculturali.it" },
+    { "name": "Museo del Prado", "city": "Madrid", "blurb": "Diálogo italo-español: Tiziano, Rafael, Tintoretto.", "image": "https://www.acciona.com/content/dam/accionacom/media/3490343/prado.jpg", "url": "https://www.museodelprado.es" },
+    { "name": "Musée du Louvre", "city": "París", "blurb": "La Gioconda y la poética del sfumato.", "image": "https://api-www.louvre.fr/sites/default/files/2021-01/cour-napoleon-et-pyramide_1.jpg", "url": "https://www.louvre.fr" },
+    { "name": "National Gallery", "city": "Londres", "blurb": "Perspectiva y color en la escuela veneciana.", "image": "https://cdn-imgix.headout.com/media/images/1c0fb4c91fe0826edb9f7c97cd767d4e-27284-london-national-gallery-guided-tour-with-optional-afternoon-tea-09.jpg?auto=format&w=900&h=562.5&q=90&ar=16%3A10&crop=faces%2Ccenter&fit=crop", "url": "https://www.nationalgallery.org.uk" },
+    { "name": "Kunsthistorisches Museum", "city": "Viena", "blurb": "Humanismo y coleccionismo imperial.", "image": "https://meeting.vienna.info/resource/image/441362/Hero-Header/2560/948/827846de69f2fba7dbbd17eb49fe7dcc/C4128790E018C8105C610A570FBBFE2E/khm-aussenansicht.webp", "url": "https://www.khm.at" },
+    { "name": "Alte Pinakothek", "city": "Múnich", "blurb": "De la devoción al retrato moderno.", "image": "https://muenchen-ausstellungen.de/wp-content/uploads/2019/12/alte-pinakothek-muenchen.jpg", "url": "https://www.pinakothek.de" },
+    { "name": "Rijksmuseum", "city": "Ámsterdam", "blurb": "El norte mira al sur: anatomía y detalle.", "image": "https://www.rijksmuseum.nl/assets/fdd2733b-030d-46be-ac53-932f3b719e77?w=1920&h=1080&fx=3333&fy=2025&c=c454422478deb97d5028ef15fe8ee1444efc831752f549ed9579f8f86f2b6708", "url": "https://www.rijksmuseum.nl" },
+    { "name": "Museo de Bellas Artes de Sevilla", "city": "Sevilla", "blurb": "Herencias renacentistas en la península.", "image": "https://ws168.juntadeandalucia.es/iaap/revista/wp-content/uploads/sites/8/2022/10/Museo-de-Bellas-Artes-sevilla.jpg", "url": "https://www.museosdeandalucia.es/museodebellasartesdesevilla" }
+  ],
+  "highlights": [
+    { "title": "La Anunciación", "artist": "Leonardo da Vinci", "year": "c. 1472–75", "museum": "Uffizi", "image": "https://www.datocms-assets.com/103094/1688661762-1503990074029518-568314.jpg?auto=format%2Ccompress&cs=srgb&max-w=800", "note": "Perspectiva, atmósfera y estudio de la luz." },
+    { "title": "David", "artist": "Miguel Ángel", "year": "1501–1504", "museum": "Accademia", "image": "https://images.squarespace-cdn.com/content/v1/5f638d3adfa9c677cced1579/1601659995727-OJTL808ZFX89P0BYBRWS/David.jpg", "note": "Anatomía ideal como idea filosófica." },
+    { "title": "La escuela de Atenas", "artist": "Rafael", "year": "1509–1511", "museum": "Museos Vaticanos", "image": "https://mymodernmet.com/wp/wp-content/uploads/2018/08/sala-della-segnatura-raphael.jpg", "note": "La filosofía convertida en fresco monumental." },
+    { "title": "La Gioconda", "artist": "Leonardo da Vinci", "year": "c. 1503–1506", "museum": "Louvre", "image": "https://s3.abcstatics.com/abc/sevilla/media/cultura/2021/11/08/s/gioconda-louvre-kQQB--1248x698@abc.jpeg", "note": "Psicología de la mirada y sfumato." },
+    { "title": "Carlos V en Mühlberg", "artist": "Tiziano", "year": "1548", "museum": "Prado", "image": "https://cvc.cervantes.es/img/citas_claroscuro/tiziano09.jpg", "note": "Poder, retrato y política dinástica." }
+  ],
+  "route": [
+    { "city": "Florencia", "days": "Días 1-2", "notes": "Uffizi + Accademia + Bargello. La cuna del Renacimiento.", "museums": ["Uffizi", "Accademia", "Bargello"] },
+    { "city": "Roma", "days": "Días 3-4", "notes": "Vaticanos + Capitolinos. El esplendor papal y clásico.", "museums": ["Vaticanos", "Capitolinos"] },
+    { "city": "París", "days": "Días 5-6", "notes": "Louvre: Alto Renacimiento italiano.", "museums": ["Louvre"] },
+    { "city": "Madrid", "days": "Días 7-8", "notes": "Prado: Tiziano y la corte española.", "museums": ["Prado"] },
+    { "city": "Londres", "days": "Días 9-10", "notes": "National Gallery: maestros venecianos.", "museums": ["National Gallery"] }
+  ],
+  "seo": {
+    "title": "Constelación: Renacimiento Europeo | Atlas Vivo",
+    "description": "Ruta por 12 museos que alumbraron el Renacimiento: luz, anatomía y perspectiva como nuevas ciencias de la imagen.",
+    "ogImage": "https://picsum.photos/seed/renaissance-og/1200/630"
+  }
+}

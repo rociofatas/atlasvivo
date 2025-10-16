@@ -1,0 +1,63 @@
+{
+  "slug": "claude-monet",
+  "name": "Claude Monet",
+  "role": "Padre del Impresionismo",
+  "birthYear": "1840",
+  "deathYear": "1926",
+  "image": "https://picsum.photos/seed/monet-portrait/1200/800",
+  "externalLink": {
+    "label": "Biografía completa",
+    "url": "https://es.wikipedia.org/wiki/Claude_Monet"
+  },
+  "facts": [
+    { "label": "Nacionalidad", "value": "Francés" },
+    { "label": "Movimiento", "value": "Impresionismo" },
+    { "label": "Lugar de nacimiento", "value": "París, Francia" },
+    { "label": "Obras principales", "value": "250+ pinturas" },
+    { "label": "Periodo activo", "value": "1865-1926" },
+    { "label": "Estilo", "value": "Pintura al aire libre, luz natural" }
+  ],
+  "keyIdeas": [
+    {
+      "title": "Fundador del Impresionismo",
+      "content": "Su obra 'Impresión, sol naciente' (1872) dio nombre al movimiento. Monet rompió con las convenciones académicas para capturar la luz y el color en su estado más puro y efímero."
+    },
+    {
+      "title": "La luz como protagonista",
+      "content": "Obsesionado con los efectos cambiantes de la luz natural, Monet pintaba el mismo motivo a diferentes horas del día. Sus series de nenúfares, la catedral de Rouen y los almiares son estudios sistemáticos de luz y atmósfera."
+    },
+    {
+      "title": "Innovación técnica",
+      "content": "Trabajaba al aire libre (en plein air) con pinceladas sueltas y colores puros aplicados directamente sobre el lienzo, sin mezclar en la paleta. Esta técnica permitía capturar la vibración de la luz."
+    },
+    {
+      "title": "Los jardines de Giverny",
+      "content": "En su casa de Giverny diseñó jardines que se convirtieron en su laboratorio artístico. El estanque de nenúfares fue el motivo de sus últimas y más abstractas obras."
+    }
+  ],
+  "majorWorks": [
+    {
+      "slug": "impresion-sol-naciente",
+      "title": "Impresión, sol naciente",
+      "subtitle": "1872 - Musée Marmottan Monet",
+      "image": "https://picsum.photos/seed/impression/600/400"
+    },
+    {
+      "slug": "nenuphares",
+      "title": "Nenúfares",
+      "subtitle": "1920-1926 - Musée de l'Orangerie",
+      "image": "https://picsum.photos/seed/nympheas/600/400"
+    },
+    {
+      "slug": "catedral-rouen",
+      "title": "La catedral de Rouen",
+      "subtitle": "1892-1894 - Serie múltiple",
+      "image": "https://picsum.photos/seed/rouen/600/400"
+    }
+  ],
+  "seo": {
+    "title": "Claude Monet - Padre del Impresionismo | Atlas Vivo",
+    "description": "Vida y obra de Claude Monet: la luz, el color y la revolución impresionista.",
+    "image": "https://picsum.photos/seed/monet-og/1200/630"
+  }
+}

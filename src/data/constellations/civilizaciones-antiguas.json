@@ -1,0 +1,42 @@
+{
+  "slug": "civilizaciones-antiguas",
+  "title": "Civilizaciones Antiguas",
+  "subtitle": "Un viaje a los orígenes: símbolos, cuerpos y ciudades que inventaron la cultura.",
+  "gradient": "from-yellow-600 via-amber-700 to-orange-800",
+  "image": "https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_1.7777777777777777,w_1920,h_1079,g_auto/dpr_auto/f_auto/q_auto:eco/v1/aztec-alliance-gettyimages-122319907?_a=BAVAZGID0",
+  "cta": { "label": "Explorar civilizaciones", "href": "/mapa?c=civilizaciones-antiguas" },
+  "intro": {
+    "title": "Los orígenes de la cultura",
+    "content": "Del Nilo al Éufrates, del Egeo al Mediterráneo, las civilizaciones antiguas tejieron relatos sobre el tiempo, los dioses y la vida cotidiana. Ocho museos conectan objetos que aún hoy nos hablan: escritura, leyes, mitos y tecnologías."
+  },
+  "museums": [
+    { "name": "British Museum", "city": "Londres", "blurb": "Cruce de Mesopotamia, Egipto y Grecia.", "image": "https://www.britishmuseum.org/sites/default/files/styles/16_9_media_huge/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=yGltR8va", "url": "https://www.britishmuseum.org" },
+    { "name": "Museo Egizio", "city": "Turín", "blurb": "Archivo excepcional del Egipto faraónico.", "image": "https://egiptologia.com/wp-content/uploads/2018/08/pa169886-1024x768.jpg", "url": "https://www.museoegizio.it" },
+    { "name": "Musée du Louvre", "city": "París", "blurb": "Colecciones de Oriente Próximo y el Nilo.", "image": "https://api-www.louvre.fr/sites/default/files/2021-01/cour-napoleon-et-pyramide_1.jpg", "url": "https://www.louvre.fr" },
+    { "name": "Pergamonmuseum", "city": "Berlín", "blurb": "Arquitecturas trasladadas: altares, puertas, frisos.", "image": "https://www.visitberlin.de/system/files/styles/visitberlin_bleed_header_visitberlin_wide_2x/private/image/Pergamonmuseum_aussen_c_SMB_Foto_Becker_web.jpg.webp?itok=WIR0Docj", "url": "https://www.smb.museum" },
+    { "name": "Museo Arqueológico Nacional", "city": "Madrid", "blurb": "Mediterráneo, península ibérica y legado romano.", "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqLuRYbAy-NhDXPT8sp9yX2AF9N4Ec37i0L6-v7gsc4yx1GhYrUjMG4N6Q7CuMxI0CdWlQMeJZM_WEaNwGPqDk_vwCaZMckie_uPlIrKKhz54qViHPWFlBlYzx6MxdoB6poJQTKbg=s1360-w1360-h1020-rw", "url": "https://www.man.es" },
+    { "name": "Acropolis Museum", "city": "Atenas", "blurb": "Escultura y urbanismo clásico.", "image": "https://images.unsplash.com/photo-1555993539-1732b0258235?w=800&q=80", "url": "https://www.theacropolismuseum.gr" },
+    { "name": "The Egyptian Museum", "city": "El Cairo", "blurb": "Tesoros faraónicos en su contexto.", "image": "https://spain.egypttoursportal.com/wp-content/uploads/2020/07/El-Museo-Egipcio-Egypt-Tours-Portal-7.jpg", "url": "https://egymonuments.gov.eg" },
+    { "name": "Istanbul Archaeology Museums", "city": "Estambul", "blurb": "Encrucijada entre imperios y épocas.", "image": "https://www.iamistanbul.com/images/blog/20210422165324_87791.jpg", "url": "https://muze.gov.tr" }
+  ],
+  "highlights": [
+    { "title": "Código de Hammurabi", "artist": "Babilonia", "year": "c. 1754 a. C.", "museum": "Louvre", "image": "https://aparisconelena.wordpress.com/wp-content/uploads/2014/03/cc3b3digo-de-hammurabi-louvre-3.jpg", "note": "Escritura, ley y poder." },
+    { "title": "Busto de Nefertiti", "artist": "Taller de Tutmose", "year": "c. 1345 a. C.", "museum": "Berlín", "image": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2021/01/18/6005df9c28686.r_d.1038-1493.jpeg", "note": "Imagen política y belleza ideal." },
+    { "title": "Frisos del Partenón", "artist": "Atenas clásica", "year": "s. V a. C.", "museum": "Atenas/Londres", "image": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/f87b/live/e0f2b110-8eaa-11ee-8a94-b765751d19fc.jpg.webp", "note": "Relato cívico y procesión." },
+    { "title": "Tesoro de Guarrazar", "artist": "Hispania visigoda", "year": "s. VII", "museum": "MAN Madrid", "image": "https://www.turismo-prerromanico.com/wp-content/uploads/2016/06/TESOROGUARRAZAR5.jpg", "note": "Orfebrería y poder tardío." }
+  ],
+  "route": [
+    { "city": "El Cairo", "days": "Días 1-2", "notes": "Tesoros faraónicos en origen.", "museums": ["Egyptian Museum"] },
+    { "city": "Atenas", "days": "Días 3-4", "notes": "Acrópolis y museo. Democracia y mármol.", "museums": ["Acropolis Museum"] },
+    { "city": "Estambul", "days": "Día 5", "notes": "Puerta entre mundos: Roma, Bizancio, Otomano.", "museums": ["Istanbul Archaeology"] },
+    { "city": "Berlín", "days": "Día 6", "notes": "Pergamonmuseum: monumentos reconstruidos.", "museums": ["Pergamonmuseum"] },
+    { "city": "París", "days": "Día 7", "notes": "Louvre: Oriente Próximo y códigos.", "museums": ["Louvre"] },
+    { "city": "Madrid", "days": "Día 8", "notes": "MAN: península ibérica y Roma.", "museums": ["MAN"] },
+    { "city": "Londres", "days": "Día 9", "notes": "British Museum: síntesis global.", "museums": ["British Museum"] }
+  ],
+  "seo": {
+    "title": "Constelación: Civilizaciones Antiguas | Atlas Vivo",
+    "description": "Ocho museos conectados por los orígenes de la cultura: escritura, leyes, mitos y tecnologías.",
+    "ogImage": "https://picsum.photos/seed/ancient-og/1200/630"
+  }
+}

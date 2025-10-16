@@ -1,0 +1,723 @@
+[
+  {
+    "id": "louvre-paris",
+    "slug": "louvre-paris",
+    "name": "Musée du Louvre",
+    "city": "París",
+    "country": "Francia",
+    "region": "Europa",
+    "coordinates": { "lat": 48.8606, "lng": 2.3376 },
+    "year_founded": 1793,
+    "type": ["Arte"],
+    "atmosphere": ["Majestuoso", "Contemplativo"],
+    "image_url": "https://api-www.louvre.fr/sites/default/files/2021-01/cour-napoleon-et-pyramide_1.jpg",
+    "description_short": "Antiguo palacio real convertido en el museo de arte más visitado del mundo, con una colección que abarca desde la antigüedad hasta el siglo XIX.",
+    "crown_jewel": {
+      "title": "La Gioconda",
+      "story": "El retrato de Leonardo da Vinci se convirtió en icono global tras su robo en 1911 y posterior recuperación."
+    },
+    "did_you_know": [
+      "El Louvre fue residencia de reyes franceses hasta que Luis XIV se mudó a Versalles en 1682.",
+      "La pirámide de vidrio de I.M. Pei, inaugurada en 1989, causó gran controversia inicialmente."
+    ],
+    "official_url": "https://www.louvre.fr/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_del_Louvre"
+  },
+  {
+    "id": "british-museum",
+    "slug": "british-museum",
+    "name": "British Museum",
+    "city": "Londres",
+    "country": "Reino Unido",
+    "region": "Europa",
+    "coordinates": { "lat": 51.5194, "lng": -0.1270 },
+    "year_founded": 1753,
+    "type": ["Historia", "Arte"],
+    "atmosphere": ["Enciclopédico", "Majestuoso"],
+    "image_url": "https://www.britishmuseum.org/sites/default/files/styles/16_9_media_huge/public/2024-11/Masterplan_aerial_view_teaser.jpg?h=d1cb525d&itok=yGltR8va",
+    "description_short": "Museo dedicado a la historia y cultura humana, con más de 8 millones de objetos que narran dos millones de años de civilización.",
+    "crown_jewel": {
+      "title": "Piedra de Rosetta",
+      "story": "Esta estela egipcia del 196 a.C. fue la clave para descifrar los jeroglíficos en 1822 gracias a Jean-François Champollion."
+    },
+    "did_you_know": [
+      "Fue el primer museo nacional público del mundo, abriendo sus puertas en 1759.",
+      "El Gran Atrio, diseñado por Norman Foster, tiene el mayor techo de vidrio cubierto de Europa."
+    ],
+    "official_url": "https://www.britishmuseum.org/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_Británico"
+  },
+  {
+    "id": "met-newyork",
+    "slug": "met-newyork",
+    "name": "The Metropolitan Museum of Art",
+    "city": "Nueva York",
+    "country": "Estados Unidos",
+    "region": "América",
+    "coordinates": { "lat": 40.7794, "lng": -73.9632 },
+    "year_founded": 1870,
+    "type": ["Arte"],
+    "atmosphere": ["Ecléctico", "Inspirador"],
+    "image_url": "https://cdn.sanity.io/images/cctd4ker/production/7c82dc04b9b7cd6fdc7050baac63f9a0fa1d0b58-3200x1800.jpg?w=1920&q=75&fit=clip&auto=format",
+    "description_short": "El mayor museo de arte de Estados Unidos, con colecciones que abarcan 5.000 años de arte de todos los rincones del mundo.",
+    "crown_jewel": {
+      "title": "Templo de Dendur",
+      "story": "Templo egipcio completo del siglo XV a.C., regalo de Egipto a Estados Unidos en 1965 para salvarlo de las inundaciones de Asuán."
+    },
+    "did_you_know": [
+      "Tiene más de 2 millones de obras en su colección permanente.",
+      "La escalinata frontal se convierte cada año en alfombra roja para el famoso Met Gala."
+    ],
+    "official_url": "https://www.metmuseum.org/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_Metropolitano_de_Arte"
+  },
+  {
+    "id": "prado-madrid",
+    "slug": "prado-madrid",
+    "name": "Museo del Prado",
+    "city": "Madrid",
+    "country": "España",
+    "region": "Europa",
+    "coordinates": { "lat": 40.4138, "lng": -3.6921 },
+    "year_founded": 1819,
+    "type": ["Arte"],
+    "atmosphere": ["Clásico", "Íntimo"],
+    "image_url": "https://www.acciona.com/content/dam/accionacom/media/3490343/prado.jpg",
+    "description_short": "Una de las pinacotecas más importantes del mundo, especializada en pintura europea de los siglos XII al XIX, con énfasis en arte español.",
+    "crown_jewel": {
+      "title": "Las Meninas",
+      "story": "Obra cumbre de Velázquez que revoluciona la pintura barroca jugando magistralmente con perspectiva, luz y la mirada del espectador."
+    },
+    "did_you_know": [
+      "Alberga la colección más completa del mundo de obras de Goya, Velázquez y El Bosco.",
+      "El edificio fue diseñado originalmente por Juan de Villanueva como Gabinete de Historia Natural."
+    ],
+    "official_url": "https://www.museodelprado.es/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_del_Prado"
+  },
+  {
+    "id": "hermitage",
+    "slug": "hermitage",
+    "name": "Museo del Hermitage",
+    "city": "San Petersburgo",
+    "country": "Rusia",
+    "region": "Europa",
+    "coordinates": { "lat": 59.9398, "lng": 30.3146 },
+    "year_founded": 1764,
+    "type": ["Arte", "Historia"],
+    "atmosphere": ["Majestuoso", "Imperial"],
+    "image_url": "https://www.hermitagemuseum.org/img/slider/2.jpg",
+    "description_short": "Uno de los museos más grandes y antiguos del mundo, fundado por Catalina la Grande, con más de 3 millones de obras.",
+    "crown_jewel": {
+      "title": "El regreso del hijo pródigo",
+      "story": "Última gran obra de Rembrandt, pintada en 1669, considerada la culminación de su maestría en luz y emoción humana."
+    },
+    "did_you_know": [
+      "Tiene una colonia de gatos que protegen el museo de roedores desde el siglo XVIII.",
+      "Si dedicaras 1 minuto a cada obra, tardarías 11 años en verlas todas."
+    ],
+    "official_url": "https://www.hermitagemuseum.org/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_del_Hermitage"
+  },
+  {
+    "id": "uffizi",
+    "slug": "uffizi",
+    "name": "Galleria degli Uffizi",
+    "city": "Florencia",
+    "country": "Italia",
+    "region": "Europa",
+    "coordinates": { "lat": 43.7687, "lng": 11.2569 },
+    "year_founded": 1581,
+    "type": ["Arte"],
+    "atmosphere": ["Renacentista", "Contemplativo"],
+    "image_url": "https://www.datocms-assets.com/103094/1688662380-1506173255354479-mgl0199.jpg?auto=format%2Ccompress&cs=srgb&dpr=0.25&max-w=160000%20213w,https://www.datocms-assets.com/103094/1688662380-1506173255354479-mgl0199.jpg?auto=format%2Ccompress&cs=srgb&dpr=0.5&max-w=320000%20427w,https://www.datocms-assets.com/103094/1688662380-1506173255354479-mgl0199.jpg?auto=format%2Ccompress&cs=srgb&dpr=0.75&max-w=480000%20641w,https://www.datocms-assets.com/103094/1688662380-1506173255354479-mgl0199.jpg?auto=format%2Ccompress&cs=srgb&max-w=800%20855w",
+    "description_short": "La mayor colección de arte renacentista del mundo, hogar de obras maestras de Botticelli, Leonardo da Vinci, Miguel Ángel y Rafael.",
+    "crown_jewel": {
+      "title": "El nacimiento de Venus",
+      "story": "La obra icónica de Botticelli (1485) representa el ideal de belleza del Renacimiento y el renacimiento de la mitología clásica."
+    },
+    "did_you_know": [
+      "Fue diseñado originalmente por Giorgio Vasari para albergar oficinas administrativas (uffizi significa oficinas).",
+      "La familia Medici fue la principal mecenas y coleccionista detrás de estas obras maestras."
+    ],
+    "official_url": "https://www.uffizi.it/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Galería_Uffizi"
+  },
+  {
+    "id": "rijksmuseum",
+    "slug": "rijksmuseum",
+    "name": "Rijksmuseum",
+    "city": "Ámsterdam",
+    "country": "Países Bajos",
+    "region": "Europa",
+    "coordinates": { "lat": 52.3600, "lng": 4.8852 },
+    "year_founded": 1800,
+    "type": ["Arte", "Historia"],
+    "atmosphere": ["Luminoso", "Acogedor"],
+    "image_url": "https://www.rijksmuseum.nl/assets/fdd2733b-030d-46be-ac53-932f3b719e77?w=1920&h=1080&fx=3333&fy=2025&c=c454422478deb97d5028ef15fe8ee1444efc831752f549ed9579f8f86f2b6708",
+    "description_short": "El museo nacional de los Países Bajos, dedicado al arte y la historia holandesa, con especial énfasis en el Siglo de Oro.",
+    "crown_jewel": {
+      "title": "La ronda de noche",
+      "story": "Obra maestra de Rembrandt de 1642, revolucionaria por su composición dinámica y uso dramático de luz y sombra."
+    },
+    "did_you_know": [
+      "Tiene la mayor colección de pinturas del Siglo de Oro holandés, incluyendo 22 obras de Rembrandt.",
+      "Una vía ciclista atraviesa el edificio, reflejando la cultura de bicicletas de Ámsterdam."
+    ],
+    "official_url": "https://www.rijksmuseum.nl/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Rijksmuseum"
+  },
+  {
+    "id": "vaticano",
+    "slug": "vaticano",
+    "name": "Museos Vaticanos",
+    "city": "Ciudad del Vaticano",
+    "country": "Vaticano",
+    "region": "Europa",
+    "coordinates": { "lat": 41.9065, "lng": 12.4536 },
+    "year_founded": 1506,
+    "type": ["Arte", "Historia"],
+    "atmosphere": ["Sagrado", "Monumental"],
+    "image_url": "https://images.unsplash.com/photo-1531572753322-ad063cecc140?w=800&q=80",
+    "description_short": "Conjunto de galerías y museos dentro del Vaticano que albergan una de las colecciones de arte más importantes del mundo.",
+    "crown_jewel": {
+      "title": "La Capilla Sixtina",
+      "story": "Los frescos del techo pintados por Miguel Ángel entre 1508-1512 representan el pináculo del arte renacentista."
+    },
+    "did_you_know": [
+      "Contiene 9 millas de pasillos y galerías.",
+      "La Capilla Sixtina es donde se elige al Papa en el cónclave."
+    ],
+    "official_url": "https://www.museivaticani.va/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museos_Vaticanos"
+  },
+  {
+    "id": "acropolis-museum",
+    "slug": "acropolis-museum",
+    "name": "Museo de la Acrópolis",
+    "city": "Atenas",
+    "country": "Grecia",
+    "region": "Europa",
+    "coordinates": { "lat": 37.9688, "lng": 23.7284 },
+    "year_founded": 2009,
+    "type": ["Historia", "Arqueología"],
+    "atmosphere": ["Moderno", "Luminoso"],
+    "image_url": "https://images.unsplash.com/photo-1555993539-1732b0258235?w=800&q=80",
+    "description_short": "Museo arqueológico moderno dedicado exclusivamente a los hallazgos de la Acrópolis de Atenas, con más de 4.000 objetos.",
+    "crown_jewel": {
+      "title": "Frisos del Partenón",
+      "story": "Esculturas del siglo V a.C. que representan la procesión de las Panateneas, obra maestra de la escultura clásica griega."
+    },
+    "did_you_know": [
+      "El edificio está construido sobre excavaciones arqueológicas visibles a través de suelos de cristal.",
+      "La galería del Partenón tiene la misma orientación que el templo original en la Acrópolis."
+    ],
+    "official_url": "https://www.theacropolismuseum.gr/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_de_la_Acrópolis"
+  },
+  {
+    "id": "egyptian-museum",
+    "slug": "egyptian-museum",
+    "name": "Museo Egipcio",
+    "city": "El Cairo",
+    "country": "Egipto",
+    "region": "África",
+    "coordinates": { "lat": 30.0478, "lng": 31.2336 },
+    "year_founded": 1902,
+    "type": ["Historia", "Arqueología"],
+    "atmosphere": ["Misterioso", "Histórico"],
+    "image_url": "https://spain.egypttoursportal.com/wp-content/uploads/2020/07/El-Museo-Egipcio-Egypt-Tours-Portal-7.jpg",
+    "description_short": "La mayor colección de antigüedades egipcias del mundo, con más de 120.000 objetos que abarcan 5.000 años de historia.",
+    "crown_jewel": {
+      "title": "Máscara de Tutankamón",
+      "story": "Máscara funeraria de oro macizo del faraón niño, descubierta intacta en 1922 por Howard Carter en el Valle de los Reyes."
+    },
+    "did_you_know": [
+      "Alberga el tesoro completo de la tumba de Tutankamón, una de las pocas tumbas reales encontradas intactas.",
+      "Muchas piezas están siendo trasladadas al nuevo Gran Museo Egipcio cerca de las pirámides."
+    ],
+    "official_url": "https://egymonuments.gov.eg/museums/egyptian-museum",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_Egipcio_de_El_Cairo"
+  },
+  {
+    "id": "nacional-antropologia",
+    "slug": "nacional-antropologia",
+    "name": "Museo Nacional de Antropología",
+    "city": "Ciudad de México",
+    "country": "México",
+    "region": "América",
+    "coordinates": { "lat": 19.4261, "lng": -99.1862 },
+    "year_founded": 1964,
+    "type": ["Historia", "Antropología"],
+    "atmosphere": ["Monumental", "Educativo"],
+    "image_url": "https://images.adsttc.com/media/images/5420/76cc/c07a/8086/fc00/0001/slideshow/15-portada.jpg?1411413660",
+    "description_short": "El museo antropológico más importante de América, dedicado a las culturas prehispánicas de Mesoamérica y a los pueblos indígenas actuales.",
+    "crown_jewel": {
+      "title": "Piedra del Sol",
+      "story": "Calendario azteca tallado en basalto de 24 toneladas, uno de los monumentos más emblemáticos de la cultura mexica."
+    },
+    "did_you_know": [
+      "El paraguas de concreto del patio central es la columna de hormigón armado más grande del mundo.",
+      "La sala maya alberga réplicas de monumentos de Palenque, Bonampak y otros sitios."
+    ],
+    "official_url": "https://www.mna.inah.gob.mx/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_Nacional_de_Antropología_(México)"
+  },
+  {
+    "id": "smithsonian",
+    "slug": "smithsonian",
+    "name": "Smithsonian National Museum of Natural History",
+    "city": "Washington D.C.",
+    "country": "Estados Unidos",
+    "region": "América",
+    "coordinates": { "lat": 38.8913, "lng": -77.0261 },
+    "year_founded": 1910,
+    "type": ["Ciencia", "Historia Natural"],
+    "atmosphere": ["Educativo", "Familiar"],
+    "image_url": "https://ids.si.edu/ids/deliveryService?id=https%3A//www.si.edu/content/img/museums/banner/nmnh.jpg&max_w=800",
+    "description_short": "El museo de historia natural más visitado del mundo, con más de 145 millones de especímenes y artefactos.",
+    "crown_jewel": {
+      "title": "Diamante Hope",
+      "story": "Diamante azul de 45,52 quilates con una historia legendaria de maldiciones, robado de la India en el siglo XVII."
+    },
+    "did_you_know": [
+      "La colección incluye más de 30 millones de insectos y arácnidos.",
+      "El elefante africano del vestíbulo pesa 8 toneladas y se exhibe desde 1959."
+    ],
+    "official_url": "https://naturalhistory.si.edu/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_Nacional_de_Historia_Natural_de_Estados_Unidos"
+  },
+  {
+    "id": "guggenheim-bilbao",
+    "slug": "guggenheim-bilbao",
+    "name": "Museo Guggenheim Bilbao",
+    "city": "Bilbao",
+    "country": "España",
+    "region": "Europa",
+    "coordinates": { "lat": 43.2687, "lng": -2.9394 },
+    "year_founded": 1997,
+    "type": ["Arte Contemporáneo"],
+    "atmosphere": ["Vanguardista", "Impactante"],
+    "image_url": "https://cms.guggenheim-bilbao.eus/uploads/2021/03/2-1.jpg",
+    "description_short": "Icono de la arquitectura contemporánea diseñado por Frank Gehry, dedicado al arte moderno y contemporáneo internacional.",
+    "crown_jewel": {
+      "title": "Puppy (Jeff Koons)",
+      "story": "Escultura floral gigante de 13 metros de altura que se convirtió en símbolo del museo y la renovación urbana de Bilbao."
+    },
+    "did_you_know": [
+      "El edificio está recubierto con 33.000 placas de titanio que cambian de color según la luz.",
+      "El 'efecto Guggenheim' es un término que describe cómo un museo puede transformar toda una ciudad."
+    ],
+    "official_url": "https://www.guggenheim-bilbao.eus/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_Guggenheim_Bilbao"
+  },
+  {
+    "id": "tokyo-national",
+    "slug": "tokyo-national",
+    "name": "Museo Nacional de Tokio",
+    "city": "Tokio",
+    "country": "Japón",
+    "region": "Asia",
+    "coordinates": { "lat": 35.7188, "lng": 139.7764 },
+    "year_founded": 1872,
+    "type": ["Arte", "Historia"],
+    "atmosphere": ["Sereno", "Tradicional"],
+    "image_url": "https://images.unsplash.com/photo-1528164344705-47542687000d?w=800&q=80",
+    "description_short": "El museo más antiguo y grande de Japón, con la colección más completa de arte japonés del mundo, incluyendo 87 tesoros nacionales.",
+    "crown_jewel": {
+      "title": "Bodhisattva Kudara Kannon",
+      "story": "Estatua de madera del siglo VII, considerada una de las esculturas budistas más hermosas de Japón."
+    },
+    "did_you_know": [
+      "Los jardines del museo son particularmente hermosos durante la floración de los cerezos.",
+      "Alberga más de 110.000 objetos, con exposiciones rotativas para mostrar su vasta colección."
+    ],
+    "official_url": "https://www.tnm.jp/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_Nacional_de_Tokio"
+  },
+  {
+    "id": "victoria-albert",
+    "slug": "victoria-albert",
+    "name": "Victoria and Albert Museum",
+    "city": "Londres",
+    "country": "Reino Unido",
+    "region": "Europa",
+    "coordinates": { "lat": 51.4966, "lng": -0.1722 },
+    "year_founded": 1852,
+    "type": ["Arte Decorativo", "Diseño"],
+    "atmosphere": ["Ecléctico", "Inspirador"],
+    "image_url": "https://assets-cdn.vam.ac.uk/2022/07/18/10/43/05/b83d0cd9-11d4-467e-bfe3-915db5d05d8e/960.jpg",
+    "description_short": "El museo de artes decorativas y diseño más grande del mundo, con 2,3 millones de objetos que abarcan 5.000 años de creatividad humana.",
+    "crown_jewel": {
+      "title": "Cartones de Rafael",
+      "story": "Siete tapices monumentales diseñados por Rafael para la Capilla Sixtina, obras maestras del Renacimiento italiano."
+    },
+    "did_you_know": [
+      "Tiene la colección más grande del mundo de cerámica italiana, vidrio veneciano y escultura india.",
+      "El Gran Café es el primer museo-restaurante del mundo, inaugurado en 1868."
+    ],
+    "official_url": "https://www.vam.ac.uk/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Victoria_and_Albert_Museum"
+  }
+  ,
+  {
+    "id": "forbidden-city",
+    "slug": "forbidden-city",
+    "name": "Museo del Palacio (Ciudad Prohibida)",
+    "city": "Pekín",
+    "country": "China",
+    "region": "Asia",
+    "coordinates": { "lat": 39.9163, "lng": 116.3972 },
+    "year_founded": 1925,
+    "type": ["Historia", "Arte"],
+    "atmosphere": ["Imperial", "Monumental"],
+    "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2017/04/06/5fa3c34c00b43.jpeg",
+    "description_short": "El complejo palaciego más grande del mundo, hogar de 24 emperadores durante casi 500 años, con más de un millón de obras de arte.",
+    "crown_jewel": {
+      "title": "Trono del Dragón",
+      "story": "El trono imperial dorado desde donde gobernaron las dinastías Ming y Qing, símbolo del poder celestial del emperador."
+    },
+    "did_you_know": [
+      "Tiene 9.999 habitaciones, ya que solo el cielo podía tener 10.000.",
+      "Fue construida sin usar un solo clavo en toda su estructura de madera."
+    ],
+    "official_url": "https://www.dpm.org.cn/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Ciudad_Prohibida"
+  },
+  {
+    "id": "malba",
+    "slug": "malba",
+    "name": "MALBA - Museo de Arte Latinoamericano",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "region": "América",
+    "coordinates": { "lat": -34.5770, "lng": -58.4048 },
+    "year_founded": 2001,
+    "type": ["Arte Contemporáneo"],
+    "atmosphere": ["Moderno", "Vibrante"],
+    "image_url": "https://turismo.buenosaires.gob.ar/sites/turismo/files/malba_exterior_1200_1.jpg",
+    "description_short": "Principal museo de arte latinoamericano del siglo XX, con obras de Frida Kahlo, Diego Rivera, Antonio Berni y otros maestros.",
+    "crown_jewel": {
+      "title": "Manifestación (Antonio Berni)",
+      "story": "Obra icónica del artista argentino que captura la lucha social con técnicas mixtas innovadoras."
+    },
+    "did_you_know": [
+      "Su colección permanente incluye más de 600 obras maestras latinoamericanas.",
+      "El edificio de piedra caliza fue diseñado por los arquitectos Gastón Atelman, Martín Fourcade y Alfredo Tapia."
+    ],
+    "official_url": "https://www.malba.org.ar/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_de_Arte_Latinoamericano_de_Buenos_Aires"
+  },
+  {
+    "id": "reina-sofia",
+    "slug": "reina-sofia",
+    "name": "Museo Nacional Centro de Arte Reina Sofía",
+    "city": "Madrid",
+    "country": "España",
+    "region": "Europa",
+    "coordinates": { "lat": 40.4080, "lng": -3.6942 },
+    "year_founded": 1992,
+    "type": ["Arte Contemporáneo"],
+    "atmosphere": ["Provocador", "Reflexivo"],
+    "image_url": "https://recursos.museoreinasofia.es/styles/large_landscape/public/Museo/frente.png.webp",
+    "description_short": "Museo de arte moderno y contemporáneo español e internacional, hogar del Guernica de Picasso y obras surrealistas de Dalí y Miró.",
+    "crown_jewel": {
+      "title": "Guernica (Pablo Picasso)",
+      "story": "Monumental óleo antibélico pintado en 1937 en respuesta al bombardeo de Guernica durante la Guerra Civil Española."
+    },
+    "did_you_know": [
+      "El Guernica estuvo exiliado en el MoMA de Nueva York durante 44 años hasta la restauración de la democracia en España.",
+      "El edificio fue un hospital general hasta su reconversión en museo."
+    ],
+    "official_url": "https://www.museoreinasofia.es/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_Nacional_Centro_de_Arte_Reina_Sofía"
+  },
+  {
+    "id": "moma",
+    "slug": "moma",
+    "name": "Museum of Modern Art (MoMA)",
+    "city": "Nueva York",
+    "country": "Estados Unidos",
+    "region": "América",
+    "coordinates": { "lat": 40.7614, "lng": -73.9776 },
+    "year_founded": 1929,
+    "type": ["Arte Moderno"],
+    "atmosphere": ["Vanguardista", "Influyente"],
+    "image_url": "https://visitnyc.com/wp-content/uploads/2024/04/1-45.jpg",
+    "description_short": "El museo de arte moderno más influyente del mundo, con obras icónicas de Van Gogh, Picasso, Warhol y muchos otros maestros.",
+    "crown_jewel": {
+      "title": "La noche estrellada (Van Gogh)",
+      "story": "Pintada en 1889 durante su estancia en el sanatorio de Saint-Rémy, se ha convertido en una de las obras más famosas del arte occidental."
+    },
+    "did_you_know": [
+      "Fue el primer museo dedicado exclusivamente al arte moderno.",
+      "Su colección de películas incluye más de 30.000 títulos, siendo una de las más importantes del mundo."
+    ],
+    "official_url": "https://www.moma.org/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_de_Arte_Moderno_de_Nueva_York"
+  },
+  {
+    "id": "pergamon",
+    "slug": "pergamon",
+    "name": "Museo de Pérgamo",
+    "city": "Berlín",
+    "country": "Alemania",
+    "region": "Europa",
+    "coordinates": { "lat": 52.5211, "lng": 13.3969 },
+    "year_founded": 1930,
+    "type": ["Historia", "Arqueología"],
+    "atmosphere": ["Monumental", "Impresionante"],
+    "image_url": "https://www.visitberlin.de/system/files/styles/visitberlin_bleed_header_visitberlin_wide_2x/private/image/Pergamonmuseum_aussen_c_SMB_Foto_Becker_web.jpg.webp?itok=WIR0Docj",
+    "description_short": "Museo arqueológico que alberga reconstrucciones monumentales de arquitectura antigua, incluyendo el Altar de Pérgamo y la Puerta de Ishtar.",
+    "crown_jewel": {
+      "title": "Puerta de Ishtar",
+      "story": "Impresionante puerta ceremonial de Babilonia del siglo VI a.C., reconstruida con ladrillos esmaltados originales de color azul intenso."
+    },
+    "did_you_know": [
+      "El Altar de Pérgamo está siendo restaurado y no se expondrá completamente hasta 2027.",
+      "Es parte de la Isla de los Museos, declarada Patrimonio de la Humanidad por la UNESCO."
+    ],
+    "official_url": "https://www.smb.museum/museen-einrichtungen/pergamonmuseum/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_de_Pérgamo"
+  },
+  {
+    "id": "anne-frank",
+    "slug": "anne-frank",
+    "name": "Casa de Ana Frank",
+    "city": "Ámsterdam",
+    "country": "Países Bajos",
+    "region": "Europa",
+    "coordinates": { "lat": 52.3752, "lng": 4.8840 },
+    "year_founded": 1960,
+    "type": ["Historia"],
+    "atmosphere": ["Conmovedor", "Reflexivo"],
+    "image_url": "https://www.annefrank.org/media/filer_public_thumbnails/filer_public/dd/61/dd614ecb-14e6-4c74-b345-ff0bb16685d4/001_012_010_voorkant_carel_blazer.jpg__1536x1536_q85_subject_location-1601%2C2511_subsampling-2.jpg",
+    "description_short": "La casa donde Ana Frank y su familia se escondieron durante dos años de la ocupación nazi, preservada como museo conmemorativo del Holocausto.",
+    "crown_jewel": {
+      "title": "El Diario de Ana Frank",
+      "story": "El diario original con cuadros rojos donde Ana escribió sus experiencias, convirtiéndose en uno de los testimonios más conmovedores del Holocausto."
+    },
+    "did_you_know": [
+      "Más de 1,3 millones de personas visitan la casa cada año.",
+      "La estantería giratoria que ocultaba la entrada al anexo secreto aún se conserva intacta."
+    ],
+    "official_url": "https://www.annefrank.org/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Casa_de_Ana_Frank"
+  },
+  {
+    "id": "national-palace-taipei",
+    "slug": "national-palace-taipei",
+    "name": "Museo del Palacio Nacional",
+    "city": "Taipéi",
+    "country": "Taiwán",
+    "region": "Asia",
+    "coordinates": { "lat": 25.1023, "lng": 121.5485 },
+    "year_founded": 1925,
+    "type": ["Arte", "Historia"],
+    "atmosphere": ["Refinado", "Contemplativo"],
+    "image_url": "https://aws-tiqets-cdn.imgix.net/images/content/9926c02bf3c6481287095fadff98a6a0.jpg?auto=format%2Ccompress&fit=crop&ixlib=python-4.0.0&q=70",
+    "description_short": "Una de las colecciones más importantes de arte chino del mundo, con cerca de 700.000 objetos que abarcan 8.000 años de historia.",
+    "crown_jewel": {
+      "title": "Col china de jade",
+      "story": "Escultura de jade tallada durante la dinastía Qing que imita perfectamente una col china, obra maestra de la talla en jade."
+    },
+    "did_you_know": [
+      "La colección fue evacuada de China continental durante la guerra civil para protegerla.",
+      "Solo el 1% de la colección se puede exhibir a la vez debido a su tamaño."
+    ],
+    "official_url": "https://www.npm.gov.tw/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_del_Palacio_Nacional"
+  },
+  {
+    "id": "musee-orsay",
+    "slug": "musee-orsay",
+    "name": "Musée d'Orsay",
+    "city": "París",
+    "country": "Francia",
+    "region": "Europa",
+    "coordinates": { "lat": 48.8600, "lng": 2.3266 },
+    "year_founded": 1986,
+    "type": ["Arte"],
+    "atmosphere": ["Luminoso", "Elegante"],
+    "image_url": "https://cdn.mediatheque.epmoo.fr/link/cfx19ajgk140rts.jpg",
+    "description_short": "Antigua estación de tren convertida en museo, hogar de la mayor colección de arte impresionista y postimpresionista del mundo.",
+    "crown_jewel": {
+      "title": "Baile en el Moulin de la Galette (Renoir)",
+      "story": "Obra maestra del impresionismo de 1876 que captura la alegría de un domingo parisino con luz solar moteada."
+    },
+    "did_you_know": [
+      "El edificio fue una estación de tren hasta 1939 antes de su transformación en museo.",
+      "El reloj gigante en la fachada es uno de los lugares más fotografiados de París."
+    ],
+    "official_url": "https://www.musee-orsay.fr/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_de_Orsay"
+  },
+  {
+    "id": "tate-modern",
+    "slug": "tate-modern",
+    "name": "Tate Modern",
+    "city": "Londres",
+    "country": "Reino Unido",
+    "region": "Europa",
+    "coordinates": { "lat": 51.5076, "lng": -0.0994 },
+    "year_founded": 2000,
+    "type": ["Arte Contemporáneo"],
+    "atmosphere": ["Industrial", "Vanguardista"],
+    "image_url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_modern_1jpg.max-500x500.jpg",
+    "description_short": "El museo de arte moderno y contemporáneo más visitado del mundo, instalado en una antigua central eléctrica junto al Támesis.",
+    "crown_jewel": {
+      "title": "Sala de las Turbinas",
+      "story": "Espacio monumental de 155 metros de largo que alberga instalaciones de gran escala, transformado de sala de generadores."
+    },
+    "did_you_know": [
+      "La chimenea de 99 metros es un icono del skyline londinense.",
+      "Es gratuito, excepto para algunas exposiciones temporales especiales."
+    ],
+    "official_url": "https://www.tate.org.uk/visit/tate-modern",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Tate_Modern"
+  },
+  {
+    "id": "national-museum-korea",
+    "slug": "national-museum-korea",
+    "name": "Museo Nacional de Corea",
+    "city": "Seúl",
+    "country": "Corea del Sur",
+    "region": "Asia",
+    "coordinates": { "lat": 37.5242, "lng": 126.9803 },
+    "year_founded": 1945,
+    "type": ["Historia", "Arte"],
+    "atmosphere": ["Sereno", "Educativo"],
+    "image_url": "https://images.myguide-cdn.com/seoul/companies/national-museum-of-korea/large/national-museum-of-korea-97313.jpg",
+    "description_short": "El museo más grande de Corea, que alberga más de 310.000 piezas que narran la rica historia coreana desde la prehistoria hasta la era moderna.",
+    "crown_jewel": {
+      "title": "Corona dorada de Silla",
+      "story": "Corona del siglo V adornada con jade, descubierta en una tumba real y símbolo del refinamiento de la dinastía Silla."
+    },
+    "did_you_know": [
+      "El edificio tiene forma que representa la fortaleza de Namhansanseong.",
+      "Los jardines exteriores incluyen una pagoda de piedra de 10 pisos del siglo XIII."
+    ],
+    "official_url": "https://www.museum.go.kr/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_Nacional_de_Corea"
+  },
+  {
+    "id": "zeitz-mocaa",
+    "slug": "zeitz-mocaa",
+    "name": "Zeitz MOCAA",
+    "city": "Ciudad del Cabo",
+    "country": "Sudáfrica",
+    "region": "África",
+    "coordinates": { "lat": -33.9076, "lng": 18.4190 },
+    "year_founded": 2017,
+    "type": ["Arte Contemporáneo"],
+    "atmosphere": ["Innovador", "Africano"],
+    "image_url": "https://media.architecturaldigest.com/photos/59bbec12857555552415c5b9/2:1/w_1280,c_limit/Baan_776_3_HR_ZeitzMOCAA_HeatherwickStudio_Credit_Iwan%20Baan_View%20of%20Zeitz%20MOCAA%20in%20Silo%20Square.jpg",
+    "description_short": "El mayor museo de arte contemporáneo africano, instalado en un antiguo silo de grano con arquitectura espectacular de Heatherwick Studio.",
+    "crown_jewel": {
+      "title": "Atrio de Tubos de Grano",
+      "story": "Espacio central de 27 metros de altura tallado de 42 tubos de hormigón originales, creando una catedral del arte africano."
+    },
+    "did_you_know": [
+      "El edificio fue uno de los silos de grano más altos del mundo hasta su conversión.",
+      "La colección se centra exclusivamente en artistas africanos y de la diáspora africana."
+    ],
+    "official_url": "https://zeitzmocaa.museum/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zeitz_Museum_of_Contemporary_Art_Africa"
+  },
+  {
+    "id": "vasa-museum",
+    "slug": "vasa-museum",
+    "name": "Museo Vasa",
+    "city": "Estocolmo",
+    "country": "Suecia",
+    "region": "Europa",
+    "coordinates": { "lat": 59.3280, "lng": 18.0917 },
+    "year_founded": 1990,
+    "type": ["Historia Marítima"],
+    "atmosphere": ["Impresionante", "Único"],
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/0d/c1/dc/caption.jpg?w=800&h=800&s=1",
+    "description_short": "Museo construido alrededor del buque de guerra Vasa del siglo XVII, el único barco del siglo XVII casi totalmente intacto que ha sido recuperado.",
+    "crown_jewel": {
+      "title": "El Vasa",
+      "story": "Buque de guerra que se hundió en su viaje inaugural en 1628 y fue rescatado 333 años después, preservado por las frías aguas del Báltico."
+    },
+    "did_you_know": [
+      "El barco está decorado con más de 700 esculturas y ornamentos tallados.",
+      "Es el museo más visitado de Escandinavia con más de 1 millón de visitantes al año."
+    ],
+    "official_url": "https://www.vasamuseet.se/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_Vasa"
+  },
+  {
+    "id": "smithsonian-air-space",
+    "slug": "smithsonian-air-space",
+    "name": "National Air and Space Museum",
+    "city": "Washington D.C.",
+    "country": "Estados Unidos",
+    "region": "América",
+    "coordinates": { "lat": 38.8882, "lng": -77.0199 },
+    "year_founded": 1976,
+    "type": ["Ciencia", "Tecnología"],
+    "atmosphere": ["Inspirador", "Educativo"],
+    "image_url": "https://ids.si.edu/ids/deliveryService?id=https%3A//www.si.edu/sites/default/files/nasm-2025.jpg&max_w=800",
+    "description_short": "El museo de aviación y exploración espacial más grande del mundo, con objetos icónicos como el Wright Flyer y el módulo de comando del Apollo 11.",
+    "crown_jewel": {
+      "title": "Módulo de Comando Apollo 11",
+      "story": "Cápsula que llevó a Neil Armstrong, Buzz Aldrin y Michael Collins a la Luna y de regreso en 1969, la misión que cambió la historia."
+    },
+    "did_you_know": [
+      "Conserva el avión original de los hermanos Wright de 1903, el primer vuelo motorizado de la historia.",
+      "También alberga el Spirit of St. Louis de Charles Lindbergh y rocas lunares reales que se pueden tocar."
+    ],
+    "official_url": "https://airandspace.si.edu/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_Nacional_del_Aire_y_el_Espacio"
+  },
+  {
+    "id": "auschwitz",
+    "slug": "auschwitz",
+    "name": "Museo Estatal Auschwitz-Birkenau",
+    "city": "Oświęcim",
+    "country": "Polonia",
+    "region": "Europa",
+    "coordinates": { "lat": 50.0355, "lng": 19.1783 },
+    "year_founded": 1947,
+    "type": ["Historia", "Memorial"],
+    "atmosphere": ["Solemne", "Conmemorativo"],
+    "image_url": "https://www.cipdh.gob.ar/memorias-situadas/wp-content/uploads/2019/02/entrada_2-copia-1.jpg",
+    "description_short": "Memorial y museo en el sitio del mayor campo de concentración y exterminio nazi, donde murieron más de 1,1 millones de personas durante el Holocausto.",
+    "crown_jewel": {
+      "title": "Bloques de Exposición",
+      "story": "Las barracas originales preservadas contienen objetos personales de las víctimas: zapatos, maletas y cabello, testimonio silencioso del horror."
+    },
+    "did_you_know": [
+      "Es Patrimonio de la Humanidad de la UNESCO como símbolo del sufrimiento humano.",
+      "Más de 2 millones de personas visitan el memorial cada año para recordar y aprender."
+    ],
+    "official_url": "http://auschwitz.org/",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Campo_de_concentración_de_Auschwitz"
+  },
+  {
+    "id": "museo-oro-bogota",
+    "slug": "museo-oro-bogota",
+    "name": "Museo del Oro",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "region": "América",
+    "coordinates": { "lat": 4.6017, "lng": -74.0728 },
+    "year_founded": 1939,
+    "type": ["Historia", "Arqueología"],
+    "atmosphere": ["Místico", "Deslumbrante"],
+    "image_url": "https://d3nmwx7scpuzgc.cloudfront.net/sites/default/files/pagina_basica/museo-de-oro-bogota-fachada-2021-640x400.jpg",
+    "description_short": "La mayor colección de orfebrería prehispánica del mundo, con más de 34.000 piezas de oro y 20.000 objetos de otras culturas indígenas.",
+    "crown_jewel": {
+      "title": "Balsa Muisca (El Dorado)",
+      "story": "Balsa ceremonial de oro que representa el ritual de El Dorado, donde el cacique se cubría de oro en polvo y se sumergía en la laguna."
+    },
+    "did_you_know": [
+      "La sala de la Ofrenda es un espacio oscuro donde se iluminan miles de objetos de oro simultáneamente.",
+      "Las técnicas de orfebrería precolombinas eran tan avanzadas que aún sorprenden a los expertos modernos."
+    ],
+    "official_url": "https://www.banrepcultural.org/bogota/museo-del-oro",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_del_Oro_(Bogotá)"
+  }
+]

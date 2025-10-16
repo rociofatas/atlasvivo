@@ -1,0 +1,49 @@
+{
+  "slug": "arte-contemporaneo",
+  "title": "Arte Contemporáneo",
+  "subtitle": "15 museos para entender el presente: ideas, cuerpos, tecnologías y paisajes.",
+  "gradient": "from-purple-600 via-pink-600 to-red-600",
+  "image": "https://picsum.photos/seed/contemporary/1920/1080",
+  "cta": { "label": "Iniciar exploración", "href": "/mapa?c=arte-contemporaneo" },
+  "intro": {
+    "title": "Lenguajes del presente",
+    "content": "Del gesto mínimo a la realidad aumentada, el arte contemporáneo ensaya formas de pensar el mundo. Esta constelación propone trayectos por obras que cuestionan, conmueven y prototipan futuros."
+  },
+  "museums": [
+    { "name": "MoMA", "city": "Nueva York", "blurb": "Lenguajes del siglo XX.", "image": "https://visitnyc.com/wp-content/uploads/2024/04/1-45.jpg", "url": "https://www.moma.org" },
+    { "name": "Tate Modern", "city": "Londres", "blurb": "Industrial, global, performativo.", "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/tate_modern_1jpg.max-500x500.jpg", "url": "https://www.tate.org.uk" },
+    { "name": "Centre Pompidou", "city": "París", "blurb": "Laboratorio visual y media.", "image": "https://images.adsttc.com/media/images/6515/ba44/7316/3253/1be0/7822/large_jpg/architecture-classics-centre-georges-pompidou-renzo-piano-building-workshop-plus-richard-rogers_11.jpg?1695922762", "url": "https://www.centrepompidou.fr" },
+    { "name": "Museo Reina Sofía", "city": "Madrid", "blurb": "Arte, historia y política.", "image": "https://recursos.museoreinasofia.es/styles/large_landscape/public/Museo/frente.png.webp", "url": "https://www.museoreinasofia.es" },
+    { "name": "Guggenheim Bilbao", "city": "Bilbao", "blurb": "Arquitectura icónica y colecciones itinerantes.", "image": "https://cms.guggenheim-bilbao.eus/uploads/2021/03/2-1.jpg", "url": "https://www.guggenheim-bilbao.eus" },
+    { "name": "MAXXI", "city": "Roma", "blurb": "Contemporáneo y arquitectura.", "image": "https://cdn.finestresullarte.info/rivista/immagini/2023/fn/maxxi-roma-1.jpg", "url": "https://www.maxxi.art" },
+    { "name": "SFMOMA", "city": "San Francisco", "blurb": "Tecnología y paisaje.", "image": "https://d1hhug17qm51in.cloudfront.net/www-media/2018/08/03004034/Third-Street-Entrance_From-Henrik-crp.jpg", "url": "https://www.sfmoma.org" },
+    { "name": "Hamburger Bahnhof", "city": "Berlín", "blurb": "Minimal y conceptual.", "image": "https://www.museumsportal-berlin.de/media/CACHE/images/d0565291e612e720a5dadd0ba81ed83a.jpg", "url": "https://www.smb.museum" },
+    { "name": "Stedelijk Museum", "city": "Ámsterdam", "blurb": "Arte y diseño como sistema.", "image": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/g2n7a9mrbkk8dqcwk590/Stedelijk%20Museum%20Admission%20Ticket%20in%20Amsterdam.jpg", "url": "https://www.stedelijk.nl" },
+    { "name": "MACBA", "city": "Barcelona", "blurb": "Crítica institucional y ciudad.", "image": "https://api.nnhotels.com/storage/171219/5a58ce53eca45bad3b1b015a/xl/macba-9.jpg", "url": "https://www.macba.cat" },
+    { "name": "Mori Art Museum", "city": "Tokio", "blurb": "Asia, metrópolis y futuro.", "image": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2014/04/mori-art-museum_Page-Light-Studios_iStock-1163741886.jpg", "url": "https://www.mori.art.museum" },
+    { "name": "M+", "city": "Hong Kong", "blurb": "Visual culture y nuevos medios.", "image": "https://arquitecturaviva.com/assets/uploads/obras/51247/av_imagen.webp", "url": "https://www.mplus.org.hk" },
+    { "name": "Museo Tamayo", "city": "Ciudad de México", "blurb": "Global desde el sur.", "image": "https://cdn.prod.website-files.com/5e9f1c5f2f493e99116fb917/633c93de8b3ce004be4b92eb_MuseoTamayo2.jpg", "url": "https://www.museotamayo.org" },
+    { "name": "Bourse de Commerce", "city": "París", "blurb": "Contemporáneo en diálogo con historia.", "image": "https://www.parisinsidersguide.com/image-files/bourse-de-commerce-paris-facade-night-wiki-by-bretwa-1000-2x1.jpg", "url": "https://www.pinaultcollection.com" },
+    { "name": "Zeitz MOCAA", "city": "Ciudad del Cabo", "blurb": "África y contemporaneidad.", "image": "https://media.architecturaldigest.com/photos/59bbec12857555552415c5b9/2:1/w_1280,c_limit/Baan_776_3_HR_ZeitzMOCAA_HeatherwickStudio_Credit_Iwan%20Baan_View%20of%20Zeitz%20MOCAA%20in%20Silo%20Square.jpg", "url": "https://zeitzmocaa.museum" }
+  ],
+  "highlights": [
+    { "title": "Guernica", "artist": "Pablo Picasso", "year": "1937", "museum": "Reina Sofía", "image": "https://recursos.museoreinasofia.es/styles/large_landscape/public/Obra/DE00050_1.jpg.webp", "note": "Memoria, guerra y política." },
+    { "title": "Infinity Mirror Rooms", "artist": "Yayoi Kusama", "year": "1965–", "museum": "Tate/MoMA", "image": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/kusa714_infinity_mirrored_room_-_filled_with_t.width-600_m5hAyIY.jpg", "note": "Percepción, repetición y cuerpo." },
+    { "title": "Campbell's Soup Cans", "artist": "Andy Warhol", "year": "1962", "museum": "MoMA", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUG5DyRUOSbiMFmYydrNBnWLDXb6xZLA6OQo1ITYzeysZ85gUWF3ypfFlhcl16pE1HWFM&usqp=CAU", "note": "Consumo y medios de masas." },
+    { "title": "Color Field", "artist": "Mark Rothko", "year": "c. 1950s", "museum": "Varias colecciones", "image": "https://static.wixstatic.com/media/da4def_7fbc8847da4948a78493fcb4039c6377~mv2.jpg/v1/fill/w_457,h_583,al_c,q_80,enc_avif,quality_auto/da4def_7fbc8847da4948a78493fcb4039c6377~mv2.jpg", "note": "Color como experiencia." },
+    { "title": "Instalaciones XR", "artist": "Varios", "year": "Actualidad", "museum": "Pompidou / SFMOMA / M+", "image": "https://www.willpap-projects.com/SFMOMA_AR/images/SFMOMA-Collage-Attrium.jpg", "note": "El arte expande la pantalla." }
+  ],
+  "route": [
+    { "city": "Madrid", "days": "Día 1", "notes": "Reina Sofía: Guernica y memoria.", "museums": ["Reina Sofía"] },
+    { "city": "Bilbao", "days": "Día 2", "notes": "Guggenheim: arquitectura y site-specific.", "museums": ["Guggenheim"] },
+    { "city": "París", "days": "Días 3-4", "notes": "Pompidou + Bourse de Commerce.", "museums": ["Pompidou", "Bourse"] },
+    { "city": "Londres", "days": "Días 5-6", "notes": "Tate Modern: global y performativo.", "museums": ["Tate Modern"] },
+    { "city": "Nueva York", "days": "Días 7-8", "notes": "MoMA: diálogos históricos del siglo XX.", "museums": ["MoMA"] },
+    { "city": "Tokio / Hong Kong", "days": "Días 9-10", "notes": "Mori + M+: tecnología y Asia.", "museums": ["Mori", "M+"] }
+  ],
+  "seo": {
+    "title": "Constelación: Arte Contemporáneo | Atlas Vivo",
+    "description": "Quince museos para explorar el presente: minimal, pop, conceptual, media art y XR.",
+    "ogImage": "https://picsum.photos/seed/contemporary-og/1200/630"
+  }
+}
