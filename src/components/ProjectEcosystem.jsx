@@ -13,7 +13,7 @@ export default function ProjectEcosystem() {
               Atlas Vivo forma parte de{' '}
               <a href="https://www.sharedmuseum.com/" target="_blank"><span className="font-semibold" style={{color: '#00b894'}}>Shared Museum</span></a>, 
               una iniciativa creada desde{' '}
-              <span className="font-semibold" style={{color: '#6b73ff'}}>Lu·di·co</span>, 
+              <a href="https://rociofatas.info/ludico" target="_blank"><span className="font-semibold" style={{color: '#6b73ff'}}>Lu·di·co</span></a>, 
               estudio de diseño fundado por Rocío Fatás.
             </p>
           </div>
@@ -89,26 +89,28 @@ export default function ProjectEcosystem() {
 
             {/* Nivel 3: Lu·di·co */}
             <div className="flex flex-col items-center">
-              <div className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow">
-                <div className="flex flex-col items-center gap-4">
-                  <img 
-                    src="/logos/ldcLogo.png" 
-                    alt="Lu·di·co - Lugar Dinámico"
-                    className="h-16 w-auto"
-                  />
-                  <div className="text-center">
-                    <h3 className="text-xl font-bold mb-1" style={{color: '#1f2630'}}>
-                      Lu·di·co
-                    </h3>
-                    <p className="text-sm" style={{color: '#1f2630', opacity: 0.7}}>
-                      Lugar Dinámico
-                    </p>
-                    <p className="text-xs mt-2" style={{color: '#1f2630', opacity: 0.5}}>
-                      Diseño estratégico y cultural · Rocío Fatás
-                    </p>
+              <a href="https://rociofatas.info/ludico" target="_blank">
+                <div className="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow">
+                  <div className="flex flex-col items-center gap-4">
+                    <img 
+                      src="/logos/ldcLogo.png" 
+                      alt="Lu·di·co - Lugar Dinámico"
+                      className="h-16 w-auto"
+                    />
+                    <div className="text-center">
+                      <h3 className="text-xl font-bold mb-1" style={{color: '#1f2630'}}>
+                        Lu·di·co
+                      </h3>
+                      <p className="text-sm" style={{color: '#1f2630', opacity: 0.7}}>
+                        Lugar Dinámico
+                      </p>
+                      <p className="text-xs mt-2" style={{color: '#1f2630', opacity: 0.5}}>
+                        Diseño estratégico y cultural · Rocío Fatás
+                      </p>
+                    </div>
                   </div>
                 </div>
-              </div>
+              </a>
             </div>
 
           </div>
